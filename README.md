@@ -1,4 +1,6 @@
-# VPS-nameserver-setup
+# Setup own nameservers on a VPS
+<img src="https://img.shields.io/badge/tutorial-DNS-brightgreen/?style=plastic">
+
 How to setup own nameservers for your domain on a debian VPS.
 
 ## Install bind and DNS utils
